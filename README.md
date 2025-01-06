@@ -2,8 +2,9 @@
 
 # Aprendizagem Automática (ML)
 
-Este projeto faz parte de um estudo que procura explorar, analisar e modelar dados referentes a valores de casas na Califórnia, bem como aplicar técnicas de Classificação, Agrupamento (Clustering) e Regras de Associação.
 ---
+
+Este projeto faz parte de um estudo que procura explorar, analisar e modelar dados referentes a valores de casas na Califórnia, bem como aplicar técnicas de Classificação, Agrupamento (Clustering) e Regras de Associação.
 
 ## **Objetivo**
 
